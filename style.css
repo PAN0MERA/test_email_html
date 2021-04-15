@@ -1,7 +1,13 @@
-* {
-  margin: 0;
-  padding: 0;
-  text-decoration: none; }
-
 body {
   background-color: #00DA84; }
+
+.main {
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px; }
+
+.pad {
+  padding: 20px 0; }
+
+.center {
+  padding-left: 250px; }
