@@ -1,0 +1,48 @@
+body{
+  background-color: #00DA84;
+}
+
+hr{
+  border: 1px solid #c8f0da;
+}
+.main{
+  padding: 20px;
+  &-up{
+    border-radius: 5px 5px 0 0;
+  }
+  &-down{
+    border-radius: 0 0 5px 5px;
+
+  }
+}
+
+.pad{
+  padding: 20px 0
+}
+
+
+
+p, h2{
+  text-align: center;
+}
+
+.btn{
+  text-decoration: none;
+  color:white;
+  &-b{
+    padding: 13px 20px;
+  }
+  &-q{
+    text-decoration: none;
+    color: #00D374;
+  }
+}
+.bnum{
+  font-size: 2rem;
+  font-weight: bold;
+  color: #00b06d;
+}
+
+.pd{
+  padding-bottom: 30px;
+}
